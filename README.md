@@ -19,4 +19,5 @@ TEMPLATE
 ## Data
 
 ## Impact
-```
+
+## Related paper
