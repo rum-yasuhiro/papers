@@ -14,10 +14,20 @@ TEMPLATE
 
 ## Key Ideas and one paragraph abstraction
 
+### Abstruct
+> 
+
+### Key ideas
+
 ## Context
+
+## Technical Terms
 
 ## Data
 
 ## Impact
 
-## Related paper
+## Related papers / repo
+
+
+```
