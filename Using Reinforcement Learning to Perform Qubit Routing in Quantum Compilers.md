@@ -16,44 +16,49 @@
 ### Key ideas
 - 強化学習(DQN)でルーティング
 - Herbert and Senguptaの先行研究を改良 [[HER 18]]
-- gateが実行されるtime stepを考慮すると，RLは最適解を判断できない
-  > --> SWAP depthを最短にする技術を追加
 - near-term architecture sizeにrandom circuitで他を凌駕
 
 
 ## Context
+- action space is combinatorial: possible parallelisable sets of SWAP are $\mathcal{O}(2^n)$. 
+    > Instead learining the quality of individual state and combinationatorial optimisation technique, search for the action leading to the highest-quality next stage. 
+    > 
+- 
 
+## Technique
+- The quality function
+    $Q(s)=r^{\*}(s)+\gamma \max \_ {a} Q(\operatorname{env}(s, a))$
+    > 
 ## Technical Terms
 - Qubit routing
     > the task of modifying quantum circuits so that they satisfy the connectivity constraints of a target quantum computer.
     > They involves inserting SWAP gate into the circuit so that the logial gates only ever occure between adjacent physical qubits. 
-    > The gal is to minimise the circuit depth added by the SWAP gates.
-
-deep Q-learning
+    > The goal is to minimise the circuit depth added by the SWAP gates.
+    > 
 
 - Reinforcement Learning
-    > [Reinforcement Learning](/0EJae6qmQ2axwghTgKsLmg)
     - State
         > プロセッサと量子回路の実行具合
-        > 
-        > N: 物理ノード，
+        > N: 物理ノード
         > Q: 論理量子ビット(logical qubits)
         > Qubit location: N-->Q
         > Qubit targets: Q-->Q
         > Circuit progress Q --> $N_{d+1}$
     - Reword
         > 報酬が出されるタイミング
-        > - ゲートがスケジュールされた時
-        > - 
+        > - ゲートスケジュール時
     - Action 
         > 並列で実行できるSWAPのセット
 
-- Markov Decision Process(MDP)
+    - Markov Decision Process(MDP)
+
+- Cost function
+- 
 
 
 - BRIDGE gate
-    > SWAP-only routing algorithmの性能を向上させる手法
-    > 
+    > SWAP-only routing algorithmに適切に追加することで性能向上が見込める
+    > [Optimization of Quantum Circuit Mapping using Gate Transformation and Commutation](https://arxiv.org/abs/1907.02686)
 
 ## Data
 
