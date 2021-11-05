@@ -1,0 +1,32 @@
+# A benchmarking procedure for quantum networks
+
+
+## Information about
+- Authors: 
+  > Jonas Helsen, Stephanie Wehner
+- Pub info:
+  > arXiv:2103.01165
+- Funding:
+  > 
+
+## Key Ideas and one paragraph abstraction
+
+Two versions of this protocol, 
+- a 2-node protocol
+- a more general multi-node protocol. Network
+> benchmarking can be seen as an adaption of the randomized benchmarking protocol
+
+### Abstruct
+> We propose network benchmarking: a procedure to efficiently benchmark the quality of a quantum network link connecting quantum processors in a quantum network. This procedure is based on the standard randomized benchmarking protocol and provides an estimate for the fidelity of a quantum network link. We provide statistical analysis of the protocol as well as a simulated implementation inspired by NV-center systems using Netsquid, a special purpose simulator for noisy quantum networks.
+
+### Key ideas
+
+## Context
+
+## Technical Terms
+
+## Data
+
+## Impact
+
+## Related papers / repo
