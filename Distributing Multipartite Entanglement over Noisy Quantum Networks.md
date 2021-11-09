@@ -4,7 +4,7 @@
 - Authors: 
   > Luís Bugalho, Bruno C. Coutinho, Francisco A. Monteiro, Yasser Omar
 - Pub info:
-  > 	arXiv:2103.14759 [quant-ph]
+  > arXiv:2103.14759 [quant-ph]
 - Funding:
   > 
 
