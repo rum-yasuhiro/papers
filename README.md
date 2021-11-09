@@ -22,6 +22,8 @@ TEMPLATE
 ## Context
 
 ## Technical Terms
+- **XX**
+  > AA
 
 ## Data
 
