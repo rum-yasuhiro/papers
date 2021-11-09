@@ -22,16 +22,9 @@ Also provide adaptability for the system with higher number of qubits and other 
 ## Context
 
 <img width="538" alt="Screen Shot 2021-11-09 at 9 44 32" src="https://user-images.githubusercontent.com/42485819/140840965-479e56cb-c110-4792-95d0-e046c14e2133.png">
-> FIG. 1. (a) Star composed by 3 different paths, connecting
-terminal nodes τ , η and θ to the center node c. Notice that
-the rate ξtree depends on each branch probability of success
-pc:τ and communications time tc:τ (Eq. 2). Moreover, the
-fidelity of the final state ftree depends on each branch fidelity
-Fc:τ (Eq. 3). (b) Branch composed by an arbitrary number of links. Each branch final fidelity Fc:τ depends on the
-path values γi:j , communications time ti:j , and memory decoherence times σi:j . The probability of success pc:τ depends
-on each link probability pi:j and the entanglement swapping
-probabilities kj . The communications time tc:τ depends on
-the lengths and the velocity of light Li:j/c.
+
+> FIG. 1. (a) Star composed by 3 different paths, connecting terminal nodes τ , η and θ to the center node c. Notice that the rate ξtree depends on each branch probability of success pc:τ and communications time tc:τ (Eq. 2). Moreover, the fidelity of the final state ftree depends on each branch fidelity Fc:τ (Eq. 3).
+> (b) Branch composed by an arbitrary number of links. Each branch final fidelity Fc:τ depends on the path values γi:j , communications time ti:j , and memory decoherence times σi:j . The probability of success pc:τ depends on each link probability pi:j and the entanglement swapping probabilities kj . The communications time tc:τ depends on the lengths and the velocity of light Li:j/c.
 
 ## Technical Terms
 - **XX**
