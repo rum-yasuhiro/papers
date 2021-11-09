@@ -30,6 +30,19 @@ Also provide adaptability for the system with higher number of qubits and other 
 > (b) Branch composed by an arbitrary number of links. Each branch final fidelity Fc:τ depends on the path values γi:j , communications time ti:j , and memory decoherence times σi:j . The probability of success pc:τ depends on each link probability pi:j and the entanglement swapping probabilities kj . The communications time tc:τ depends on the lengths and the velocity of light Li:j/c.
 
 ## Technical Terms
+- **Multipartite entanglement**
+  > AA
+- **GHZ state**
+  > AA
+- **Quantum repeater**
+  > AA
+- **Werner state**
+  > $\rho_{W}=\gamma\left|\phi^{+}\right\rangle\left\langle\phi^{+}\right|+(1-\gamma) \mathbb{1}$
+  > where $\gamma=(4 F-1) / 3$
+  > and F is the [fidelity](https://en.wikipedia.org/wiki/Fidelity_of_quantum_states).
+- **Depolarising channel**
+  > AA
+
 - **XX**
   > AA
 
