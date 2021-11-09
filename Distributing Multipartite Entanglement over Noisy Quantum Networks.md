@@ -40,8 +40,14 @@ Also provide adaptability for the system with higher number of qubits and other 
   > $\rho_{W}=\gamma\left|\phi^{+}\right\rangle\left\langle\phi^{+}\right|+(1-\gamma) \mathbb{1}$
   > where $\gamma=(4 F-1) / 3$
   > and F is the [fidelity](https://en.wikipedia.org/wiki/Fidelity_of_quantum_states).
-- **Depolarising channel**
-  > AA
+- **[Depolarising channel](https://en.wikipedia.org/wiki/Quantum_depolarizing_channel)**
+  > $\begin{aligned}
+\mathcal{D}_{i}^{p}(\rho) &=p \rho+\frac{1-p}{3}\left(\hat{X}_{i} \rho \hat{X}_{i}^{\dagger}+\hat{Y}_{i} \rho \hat{Y}_{i}^{\dagger}+\hat{Z}_{i} \rho \hat{Z}_{i}^{\dagger}\right) \\
+&=\frac{1+2 p}{3} \rho+\frac{2(1-p)}{3} \Lambda_{i}\left(\hat{Y}_{i} \rho \hat{Y}_{i}^{\dagger}\right)
+\end{aligned}
+  > In the bipartite case, there is an equivalence between a Werner state and a representation with a depolarising channel having an equal amount of bit-flip, phase-flip and phase-bit-flip errors:
+  > \rho_{W}=\mathcal{D}_{1}^{F}\left(\left|\phi^{+}\right\rangle\left\langle\phi^{+}\right|\right)=\mathcal{D}_{2}^{F}\left(\left|\phi^{+}\right\rangle\left\langle\phi^{+}\right|\right)
+  > 
 
 - **XX**
   > AA
