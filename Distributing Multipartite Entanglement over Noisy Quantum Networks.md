@@ -19,7 +19,10 @@ Also provide adaptability for the system with higher number of qubits and other 
 
 ### Key ideas
 
+
 ## Context
+
+### Quantum Network
 
 <img width="538" alt="Screen Shot 2021-11-09 at 9 44 32" src="https://user-images.githubusercontent.com/42485819/140840965-479e56cb-c110-4792-95d0-e046c14e2133.png">
 
@@ -29,6 +32,8 @@ Also provide adaptability for the system with higher number of qubits and other 
 ## Technical Terms
 - **XX**
   > AA
+
+
 ## Data
 <img width="1329" alt="Screen Shot 2021-11-09 at 9 48 06" src="https://user-images.githubusercontent.com/42485819/140841286-f6051459-35aa-429c-a02c-bb423332783c.png">
 
@@ -48,6 +53,12 @@ applied to the 3-qubits problem in (a) Erd¨os-R´enyi networks and (c) random g
 > For random geometric networks $a = 2$ and $d_{\max }=\sqrt{N / \log N}$ [44].
 
 ## Impact
+- This methodology can be applied
+  - different distribution scheme
+  - different quantum repeater protocols 
+- While optimality is not always the practical goal, this tool can be utilize as a measure to find a closeness to optimality and possibility new routing protocols that are close to optimal.
+
+
 
 ## Related papers / repo
 
