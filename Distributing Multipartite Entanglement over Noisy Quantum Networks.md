@@ -57,7 +57,11 @@ Also provide adaptability for the system with higher number of qubits and other 
   > 
 - **Steiner tree**
   > AA
-
+- **Multi-objective shortest-paths (MOSP)**
+  > AA
+- **Pareto optimality definition**
+  > 
+  > The optimal solutions (>=1), which is called the Pareto front
 
 - **XX**
   > AA
