@@ -1,8 +1,8 @@
 # Quantum threshold theorem
 
 **Related notes**: 
-- [Fault-tolerant quantum computation with long-range correlated noise](/0wSHKjCNQIOB6I6nhO54WQ)
-- [Sufficient condition on noise correlations for scalable quantum computing](/p6VSA2hERYSlUWz3cJ5GPw)
+- [Fault-tolerant quantum computation with long-range correlated noise](https://github.com/rum-yasuhiro/papers/blob/main/Fault-tolerant%20quantum%20computation%20with%20long-range%20correlated%20noise.md#fault-tolerant-quantum-computation-with-long-range-correlated-noise)
+- [Sufficient condition on noise correlations for scalable quantum computing](https://github.com/rum-yasuhiro/papers/blob/main/Sufficient%20condition%20on%20noise%20correlations%20for%20scalable%20quantum%20computing.md#sufficient-condition-on-noise-correlations-for-scalable-quantum-computing)
 
 
 **papers**
