@@ -5,12 +5,17 @@ TEMPLATE
 # Title
 
 ## Information about
-- Authors: 
-  > 
-- Pub info:
-  > 
-- Funding:
-  > 
+**Authors:**
+
+
+**Pub info:**
+
+
+**Funding:**
+
+
+**Citation**
+
 
 ## Key Ideas and one paragraph abstraction
 
