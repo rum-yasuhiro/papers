@@ -11,7 +11,18 @@ https://doi.org/10.1038/s41467-020-14341-w
 
 
 **Citation**
-
+```
+@article{mcclean2020decoding,
+  title={Decoding quantum errors with subspace expansions},
+  author={McClean, Jarrod R and Jiang, Zhang and Rubin, Nicholas C and Babbush, Ryan and Neven, Hartmut},
+  journal={Nature communications},
+  volume={11},
+  number={1},
+  pages={1--9},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+```
 
 ## Related papers / repo
 - [GeneralizedQuantumSubspaceExpansion](https://github.com/rum-yasuhiro/papers/blob/main/GeneralizedQuantumSubspaceExpansion.md)
