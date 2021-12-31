@@ -48,7 +48,14 @@ https://doi.org/10.1038/s41467-020-14341-w
 ## Technical Terms
 
 - **Stabilizer codes**
-  > AA
+  > - Consider a set of n physical qubits.
+  > - Quantum error correcting codes utilize entanglement to encode a set of k < n logical qubits, with the hope of improving robustness to probable errors. 
+  > - A code that requires at least a weight d Pauli operator to induce a logical error is said to have distance d. 
+  > 
+  > These three numbers are often used to define a quantum error correcting code, with the notation [[n, k, d]]
+  > 
+  > $\mathcal{L} = \left\{\bar{X}_{i}, \bar{Z}_{i}\right\}_{i=1, \ldots, k}$
+  > 
 
 - **Post-processing**
   > AA
@@ -58,7 +65,7 @@ https://doi.org/10.1038/s41467-020-14341-w
 
 
 - **perfect code**
-  > [5, 1, 3]
+  > [[n, k, d]] = [[5, 1, 3]]
 
 - **XX**
   > AA
