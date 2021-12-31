@@ -26,11 +26,13 @@ Phys. Rev. X 11, 031057 – Published 15 September 2021
   doi = {10.1103/PhysRevX.11.031057},
   url = {https://link.aps.org/doi/10.1103/PhysRevX.11.031057}
 }
-
 ```
 
 ## Related papers / repo
-
+- [GeneralizedQuantumSubspaceExpansion](https://github.com/rum-yasuhiro/papers/blob/main/GeneralizedQuantumSubspaceExpansion.md)
+- [VirtualDistillationForQuantumErrorMitigation](https://github.com/rum-yasuhiro/papers/blob/main/VirtualDistillationForQuantumErrorMitigation.md)
+- [DecodingQuantumErrorsWithSubspaceExpansions](https://github.com/rum-yasuhiro/papers/blob/main/DecodingQuantumErrorsWithSubspaceExpansions.md)
+- [IncreasingTheRepresentationAccuracyOfQuantumSimulationsOfChemistryWithoutExtraQuantumResources](https://github.com/rum-yasuhiro/papers/blob/main/IncreasingTheRepresentationAccuracyOfQuantumSimulationsOfChemistryWithoutExtraQuantumResources.md)
 
 ## Key Ideas and one paragraph abstraction
 
