@@ -1,4 +1,4 @@
-# Title
+# Generalized quantum subspace expansion
 
 ## Information about
 **Authors:**
@@ -11,7 +11,19 @@ arXiv:2107.02611 [quant-ph]
 
 
 **Citation**
-
+```
+@article{yoshioka2021generalized,
+  title={Generalized quantum subspace expansion},
+  author={Yoshioka, Nobuyuki and Hakoshima, Hideaki and Matsuzaki, Yuichiro and Tokunaga, Yuuki and Suzuki, Yasunari and Endo, Suguru},
+  journal={arXiv preprint arXiv:2107.02611},
+  year={2021}
+}
+```
+## Related papers / repo
+- [VirtualDistillationForQuantumErrorMitigation](https://github.com/rum-yasuhiro/papers/blob/main/VirtualDistillationForQuantumErrorMitigation.md)
+- [ExponentialErrorSuppressionForNear-TermQuantumDevices](https://github.com/rum-yasuhiro/papers/blob/main/ExponentialErrorSuppressionForNear-TermQuantumDevices.md)
+- [DecodingQuantumErrorsWithSubspaceExpansions](https://github.com/rum-yasuhiro/papers/blob/main/DecodingQuantumErrorsWithSubspaceExpansions.md)
+- [IncreasingTheRepresentationAccuracyOfQuantumSimulationsOfChemistryWithoutExtraQuantumResources](https://github.com/rum-yasuhiro/papers/blob/main/IncreasingTheRepresentationAccuracyOfQuantumSimulationsOfChemistryWithoutExtraQuantumResources.md)
 
 ## Key Ideas and one paragraph abstraction
 
@@ -29,7 +41,3 @@ arXiv:2107.02611 [quant-ph]
 ## Data
 
 ## Impact
-
-## Related papers / repo
-- [DecodingQuantumErrorsWithSubspaceExpansions](https://github.com/rum-yasuhiro/papers/blob/main/DecodingQuantumErrorsWithSubspaceExpansions.md)
-- 
