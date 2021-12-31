@@ -16,7 +16,6 @@ TEMPLATE
 
 **Citation**
 ```
-
 ```
 
 ## Related papers / repo
