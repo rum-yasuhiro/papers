@@ -46,6 +46,17 @@ https://doi.org/10.1038/s41467-020-14341-w
 ## Context
 
 ## Technical Terms
+
+- **Stabilizer codes**
+  > AA
+
+- **Post-processing**
+  > AA
+
+- **Quantum Subspace Expansion**
+  > AA
+
+
 - **perfect code**
   > [5, 1, 3]
 
