@@ -16,6 +16,7 @@ TEMPLATE
 
 **Citation**
 
+## Related papers / repo
 
 ## Key Ideas and one paragraph abstraction
 
@@ -33,8 +34,6 @@ TEMPLATE
 ## Data
 
 ## Impact
-
-## Related papers / repo
 
 
 ```
