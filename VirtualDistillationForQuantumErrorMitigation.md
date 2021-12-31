@@ -26,11 +26,13 @@ Phys. Rev. X 11, 041036 – Published 19 November 2021
   doi = {10.1103/PhysRevX.11.041036},
   url = {https://link.aps.org/doi/10.1103/PhysRevX.11.041036}
 }
-
 ```
 
 ## Related papers / repo
-
+- [GeneralizedQuantumSubspaceExpansion](https://github.com/rum-yasuhiro/papers/blob/main/GeneralizedQuantumSubspaceExpansion.md)
+- [ExponentialErrorSuppressionForNear-TermQuantumDevices](https://github.com/rum-yasuhiro/papers/blob/main/ExponentialErrorSuppressionForNear-TermQuantumDevices.md)
+- [DecodingQuantumErrorsWithSubspaceExpansions](https://github.com/rum-yasuhiro/papers/blob/main/DecodingQuantumErrorsWithSubspaceExpansions.md)
+- [IncreasingTheRepresentationAccuracyOfQuantumSimulationsOfChemistryWithoutExtraQuantumResources](https://github.com/rum-yasuhiro/papers/blob/main/IncreasingTheRepresentationAccuracyOfQuantumSimulationsOfChemistryWithoutExtraQuantumResources.md)
 
 ## Key Ideas and one paragraph abstraction
 
