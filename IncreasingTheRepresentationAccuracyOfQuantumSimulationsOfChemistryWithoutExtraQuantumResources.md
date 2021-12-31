@@ -29,7 +29,10 @@ Phys. Rev. X 10, 011004 – Published 7 January 2020
 ```
 
 ## Related papers / repo
-
+- [GeneralizedQuantumSubspaceExpansion](https://github.com/rum-yasuhiro/papers/blob/main/GeneralizedQuantumSubspaceExpansion.md)
+- [VirtualDistillationForQuantumErrorMitigation](https://github.com/rum-yasuhiro/papers/blob/main/VirtualDistillationForQuantumErrorMitigation.md)
+- [ExponentialErrorSuppressionForNear-TermQuantumDevices](https://github.com/rum-yasuhiro/papers/blob/main/ExponentialErrorSuppressionForNear-TermQuantumDevices.md)
+- [DecodingQuantumErrorsWithSubspaceExpansions](https://github.com/rum-yasuhiro/papers/blob/main/DecodingQuantumErrorsWithSubspaceExpansions.md)
 
 ## Key Ideas and one paragraph abstraction
 
