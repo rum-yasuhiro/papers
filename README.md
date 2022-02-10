@@ -1,10 +1,8 @@
-# Notes
-
-TEMPLATE
-```
 # Title
 
-## Information about
+---
+
+## 1. Information about
 **Authors:**
 
 
@@ -14,28 +12,76 @@ TEMPLATE
 **Funding:**
 
 
-**Citation**
+**Citation**: # (Date: )
+
+----
+
+### 1.1 bibtex
+
+```
+
+```
+
+---
+
+## 2. Related papers / repo
+
+---
 
 
-## Related papers / repo
+## 3. Key Ideas and one paragraph abstraction
 
+----
 
-## Key Ideas and one paragraph abstraction
-
-### Abstruct
+### 3.1. Abstruct
 > 
 
-### Key ideas
+----
 
-## Context
+### 3.2. Key ideas
 
-## Technical Terms
+----
+
+
+## 4. Context
+
+---
+
+## 5. Technical Terms
+
+----
+
 - **XX**
   > AA
 
-## Data
+----
 
-## Impact
+---
+
+## 6. Data
 
 
-```
+---
+
+## 7. Impact
+
+----
+
+### 7.1. Academic view
+- **Citation**: #
+- **Major citing paper**
+    - something
+
+----
+
+### 7.2. Industrial view
+
+
+----
+
+### 7.3. Something else
+
+---
+
+## 8. Next Paper?
+
